@@ -1,0 +1,19 @@
+{
+  "name": "redux-ead-cli-blueprints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srt0422/redux-ead-cli-blueprints.git"
+  },
+  "author": "Scott Terry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srt0422/redux-ead-cli-blueprints/issues"
+  },
+  "homepage": "https://github.com/srt0422/redux-ead-cli-blueprints#readme"
+}
